@@ -1,5 +1,6 @@
 {
   "name": "captcha",
+  "private": "true",
   "description": "Simple captcha middleware for Connect",
   "version": "0.0.4",
   "author": "napa3um <napa3um@gmail.com>",
